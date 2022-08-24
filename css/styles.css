@@ -62,3 +62,19 @@ body {
   left: 0;
   min-height: 300px;
 }
+
+.custom-input {
+  background-color: #0f0f0f;
+  color: floralwhite;
+}
+
+input[type="email"]::-webkit-input-placeholder {
+  color: red;
+}
+
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
