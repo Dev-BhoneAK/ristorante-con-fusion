@@ -74,3 +74,21 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+#btn-login {
+  cursor: pointer;
+}
+
+.modal-content {
+  .modal-header {
+    background: $background-dark;
+    color: floralwhite;
+    .close {
+      color: floralwhite;
+    }
+  }
+  .modal-body {
+    background: $background-pale;
+    color: #0f0f0f;
+  }
+}

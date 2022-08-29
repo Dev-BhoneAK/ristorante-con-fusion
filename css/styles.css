@@ -52,3 +52,16 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#btn-login {
+  cursor: pointer; }
+
+.modal-content .modal-header {
+  background: #512da8;
+  color: floralwhite; }
+  .modal-content .modal-header .close {
+    color: floralwhite; }
+
+.modal-content .modal-body {
+  background: #d1c4e9;
+  color: #0f0f0f; }
